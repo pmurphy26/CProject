@@ -1,0 +1,49 @@
+filename US.txt
+postal 24060
+	US	24060	Blacksburg	Virginia	VA	Montgomery	121			37.2563	-80.4347		4
+postal 00000
+Sorry, postal code 00000 was not found.
+place Blacksburg
+	US	29702	Blacksburg	South Carolina	SC	Cherokee	021			35.109500	-81.494200		4
+	US	24060	Blacksburg	Virginia	VA	Montgomery	121			37.256300	-80.434700		4
+	US	24061	Blacksburg	Virginia	VA	Montgomery	121			37.179100	-80.351500		4
+	US	24062	Blacksburg	Virginia	VA	Montgomery	121			37.229600	-80.413900		4
+	US	24063	Blacksburg	Virginia	VA	Montgomery	121			37.229600	-80.413900		4
+county Bib
+	US	35034	Brent	Alabama	AL	Bibb	007			32.935700	-87.211400		4
+	US	35035	Brierfield	Alabama	AL	Bibb	007			33.042700	-86.951700		4
+	US	35042	Centreville	Alabama	AL	Bibb	007			32.950300	-87.119200		4
+	US	35074	Green Pond	Alabama	AL	Bibb	007			33.225100	-87.126400		4
+	US	35184	West Blocton	Alabama	AL	Bibb	007			33.142400	-87.136900		4
+	US	35188	Woodstock	Alabama	AL	Bibb	007			33.206800	-87.150000		4
+	US	36792	Randolph	Alabama	AL	Bibb	007			32.888800	-86.907000		4
+	US	36793	Lawley	Alabama	AL	Bibb	007			32.864600	-86.956700		4
+	US	31052	Lizella	Georgia	GA	Bibb	021			32.777300	-83.825000		4
+	US	31201	Macon	Georgia	GA	Bibb	021			32.809500	-83.616800		4
+	US	31202	Macon	Georgia	GA	Bibb	021			32.840700	-83.632400		4
+	US	31203	Macon	Georgia	GA	Bibb	021			32.806700	-83.691300		4
+	US	31204	Macon	Georgia	GA	Bibb	021			32.842400	-83.676600		4
+	US	31205	Macon	Georgia	GA	Bibb	021			32.806700	-83.691300		4
+	US	31206	Macon	Georgia	GA	Bibb	021			32.791400	-83.679000		4
+	US	31207	Macon	Georgia	GA	Bibb	021			32.830400	-83.648600		4
+	US	31208	Macon	Georgia	GA	Bibb	021			32.806700	-83.691300		4
+	US	31209	Macon	Georgia	GA	Bibb	021			32.806700	-83.691300		4
+	US	31210	Macon	Georgia	GA	Bibb	021			32.892600	-83.745500		4
+	US	31211	Macon	Georgia	GA	Bibb	021			32.886900	-83.602100		4
+	US	31213	Macon	Georgia	GA	Bibb	021			32.839300	-83.638800		4
+	US	31216	Macon	Georgia	GA	Bibb	021			32.748600	-83.747700		4
+	US	31217	Macon	Georgia	GA	Bibb	021			32.811800	-83.565000		4
+	US	31220	Macon	Georgia	GA	Bibb	021			32.859500	-83.802000		4
+	US	31221	Macon	Georgia	GA	Bibb	021			32.840700	-83.632400		4
+	US	31294	Macon	Georgia	GA	Bibb	021			32.840700	-83.632400		4
+	US	31295	Macon	Georgia	GA	Bibb	021			32.810200	-83.569000		4
+	US	31296	Macon	Georgia	GA	Bibb	021			32.806700	-83.691300		4
+	US	31297	Macon	Georgia	GA	Bibb	021			32.700400	-83.657200		4
+place I Can't Find You!
+Sorry, place name I Can't Find You! was not found.
+county Doesn't Exist Co.
+Sorry, county Doesn't Exist Co. was not found.
+distance 24060 24073
+	US	24060	Blacksburg	Virginia	VA	Montgomery	121			37.256300	-80.434700		4
+	US	24073	Christiansburg	Virginia	VA	Montgomery	121			37.135300	-80.418800		4
+	Distance: 13.528333 km

@@ -1,0 +1,8 @@
+filename US.txt
+postal 24060
+postal 00000
+place Blacksburg
+county Bib
+place I Can't Find You!
+county Doesn't Exist Co.
+distance 24060 24073
